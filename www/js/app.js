@@ -1,4 +1,4 @@
-angular.module('ionic-ecommerce', ['ionic', 'ionic-ecommerce.controllers', 'ionic-ecommerce.services'])
+angular.module('powkilo', ['ionic', 'powkilo.controllers', 'powkilo.services'])
 .run(Runner)
 .config(Configurator);
 
